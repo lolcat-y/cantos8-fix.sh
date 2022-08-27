@@ -37,6 +37,10 @@ yum install openssl-devel
 yum install python-pip
 pip install paramiko
 pip install --upgrade pip
+dnf group install "Development Tools"
+dnf install man-pages
+gcc --version
+
 echo -e [====                                                   ]
 echo -e [=======                                                ]
 echo -e [===================                                    ]
