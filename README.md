@@ -19,7 +19,8 @@ pip install paramiko
 pip install --upgrade pip
 .... and more 
 
-#How to run
+# How to run
 
 sh cantos8-fix.sh
 
+# Made by sigh#0001
