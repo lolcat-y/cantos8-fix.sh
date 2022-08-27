@@ -1,13 +1,13 @@
 # cantos8-fix.sh
 CantOS 8 Auto yum error fixing tool 
 
-#What dos it fix 
+# What dos it fix 
  yum and dfn
  And pip3, python3
  
  this tool will fix half of the errors automatically.
 
-#What dos it install 
+# What dos it install 
 
 yum install perl -y
 yum install python3 -y
@@ -22,5 +22,4 @@ pip install --upgrade pip
 #How to run
 
 sh cantos8-fix.sh
- {
- }
+
