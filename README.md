@@ -23,4 +23,4 @@ pip install --upgrade pip
 
 sh cantos8-fix.sh
 
-# Made by sigh#0001
+# Made by neo
